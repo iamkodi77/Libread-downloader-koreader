@@ -1,0 +1,2 @@
+# Development/test dependency only. Nothing is installed on the Kindle.
+lupa==2.8
